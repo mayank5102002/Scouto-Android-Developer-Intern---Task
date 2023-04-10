@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scouto Task</string>
+
+    <string name="sharedPrefsUser">SharedPrefsUser</string>
+    <string name="prefUsername">username</string>
+    <string name="prefPassword">password</string>
+
+    <string name="makePrompt">Select Car Make</string>
+    <string name="modelPrompt">Select Car Model</string>
+</resources>
